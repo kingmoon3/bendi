@@ -18,13 +18,13 @@ sudo apt-get update && sudo apt-get install -y curl wget
 ---
 - WSL Ubuntu、服务器版Ubuntu、桌面版Ubuntu 通用一键编译openwrt命令（短链接命令）
 ```sh
-bash <(curl -fsSL git.io/local.sh)
+bash <(curl -fsSL bit.ly/oplocal)
 ```
 
 ---
 - 短链接命令，有时候会抽风的，用不了，如果用不了就用此命令
 ```sh
-bash <(curl -fsSL https://github.com/281677160/bendi/raw/main/local.sh)
+bash <(curl -fsSL https://github.com/kingmoon3/bendi/raw/main/local.sh)
 ```
 #
 ---
